@@ -1,1 +1,3 @@
-var error = "bla"
+val error = "bla"
+
+val anotherError = "hey"
